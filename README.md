@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=el-rapido" alt="el-rapido" /></a> </p>
 
-- 🔭 I’m currently working on an **AI study bot, Automated Class Attendance System**
+- 🔭 I’m currently working on an **AI study bot, WhatsApp Expense Trackking Bot**
 
 - 🌱 I’m currently learning **Dart, C++, Kotlin**
 
