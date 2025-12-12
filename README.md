@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Precious Thom</h1>
 <h3 align="center">I'm a tech enthusiast that loves to tackle different projects and broaden their horizons by trying out new languages and apply coding to automate everyday life.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=el-rapido" alt="el-rapido" /></a> </p>
 
 - 🔭 I’m currently working on an **AI study bot, WhatsApp Expense Trackking Bot**
 
