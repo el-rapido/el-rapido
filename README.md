@@ -84,12 +84,12 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=el-rapido&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=1e1e2e&title_color=a89fd8&icon_color=a89fd8&text_color=cdd6f4&count_private=true&include_all_commits=true" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=el-rapido&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1e1e2e&title_color=a89fd8&text_color=cdd6f4" height="160"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=el-rapido&theme=onestar&no-frame=true&no-bg=true&column=6&margin-w=8" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=el-rapido&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=a89fd8&fire=f38ba8&currStreakLabel=a89fd8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=el-rapido&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1e1e2e&title_color=a89fd8&text_color=cdd6f4" height="160"/>
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=el-rapido&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=a89fd8&fire=f38ba8&currStreakLabel=a89fd8" height="160"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
