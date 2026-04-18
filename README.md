@@ -37,28 +37,41 @@
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-1e1e2e?style=flat-square&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e1e2e?style=flat-square&logo=postgresql&logoColor=4169E1)
+![SQLite](https://img.shields.io/badge/SQLite-1e1e2e?style=flat-square&logo=sqlite&logoColor=003B57)
+
+### Robotics
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-1e1e2e?style=flat-square&logo=raspberrypi&logoColor=A22846)
+![Arduino](https://img.shields.io/badge/Arduino-1e1e2e?style=flat-square&logo=arduino&logoColor=00979D)
 
 </td>
 <td width="50%" valign="top">
 
 ### Web & Frameworks
 ![React](https://img.shields.io/badge/React-1e1e2e?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-1e1e2e?style=flat-square&logo=fastapi&logoColor=009688)
 ![Django](https://img.shields.io/badge/Django-1e1e2e?style=flat-square&logo=django&logoColor=092E20)
 ![Flask](https://img.shields.io/badge/Flask-1e1e2e?style=flat-square&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-1e1e2e?style=flat-square&logo=bootstrap&logoColor=7952B3)
 ![HTML5](https://img.shields.io/badge/HTML5-1e1e2e?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-1e1e2e?style=flat-square&logo=css3&logoColor=1572B6)
 
-### AI & Data
+### AI & Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-1e1e2e?style=flat-square&logo=pytorch&logoColor=EE4C2C)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-1e1e2e?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![Keras](https://img.shields.io/badge/Keras-1e1e2e?style=flat-square&logo=keras&logoColor=D00000)
 ![OpenCV](https://img.shields.io/badge/OpenCV-1e1e2e?style=flat-square&logo=opencv&logoColor=5C3EE8)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1e1e2e?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![NumPy](https://img.shields.io/badge/NumPy-1e1e2e?style=flat-square&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-1e1e2e?style=flat-square&logo=pandas&logoColor=150458)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-1e1e2e?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![OpenAI](https://img.shields.io/badge/OpenAI-1e1e2e?style=flat-square&logo=openai&logoColor=white)
 
 ### Tooling
 ![Git](https://img.shields.io/badge/Git-1e1e2e?style=flat-square&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-1e1e2e?style=flat-square&logo=docker&logoColor=2496ED)
 ![Linux](https://img.shields.io/badge/Linux-1e1e2e?style=flat-square&logo=linux&logoColor=FCC624)
 ![Figma](https://img.shields.io/badge/Figma-1e1e2e?style=flat-square&logo=figma&logoColor=F24E1E)
-![Arduino](https://img.shields.io/badge/Arduino-1e1e2e?style=flat-square&logo=arduino&logoColor=00979D)
 ![Postman](https://img.shields.io/badge/Postman-1e1e2e?style=flat-square&logo=postman&logoColor=FF6C37)
 
 </td>
