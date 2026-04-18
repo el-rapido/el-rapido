@@ -13,7 +13,6 @@
   <a href="https://linkedin.com/in/precious-thom-b97346232">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="https://el-rapido.dev">
     <img src="https://img.shields.io/badge/PORTFOLIO-el--rapido.dev-a89fd8?style=for-the-badge&labelColor=302b63&color=a89fd8&logoColor=1e1e2e"/>
   </a>
