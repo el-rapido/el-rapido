@@ -13,6 +13,10 @@
   <a href="https://linkedin.com/in/precious-thom-b97346232">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
+  <a href="https://el-rapido.dev">
+    <img src="https://img.shields.io/badge/el--rapido.dev-1e1e2e?style=for-the-badge&logo=safari&logoColor=a89fd8"/>
+  </a>
 </p>
 
 <br/>
@@ -83,9 +87,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=el-rapido&theme=onestar&no-frame=true&no-bg=true&column=6&margin-w=8" />
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=el-rapido&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1e1e2e&title_color=a89fd8&text_color=cdd6f4" height="160"/>
   &nbsp;
