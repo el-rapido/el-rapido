@@ -36,11 +36,12 @@
 ![Android](https://img.shields.io/badge/Android-1e1e2e?style=flat-square&logo=android&logoColor=3DDC84)
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-1e1e2e?style=flat-square&logo=mysql&logoColor=4479A1)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e1e2e?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-1e1e2e?style=flat-square&logo=mysql&logoColor=4479A1)
 ![SQLite](https://img.shields.io/badge/SQLite-1e1e2e?style=flat-square&logo=sqlite&logoColor=003B57)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1e1e2e?style=flat-square&logo=sqlalchemy&logoColor=D71F00)
 
-### Robotics
+### Robotics & Hardware
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-1e1e2e?style=flat-square&logo=raspberrypi&logoColor=A22846)
 ![Arduino](https://img.shields.io/badge/Arduino-1e1e2e?style=flat-square&logo=arduino&logoColor=00979D)
 
@@ -60,12 +61,14 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-1e1e2e?style=flat-square&logo=pytorch&logoColor=EE4C2C)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-1e1e2e?style=flat-square&logo=tensorflow&logoColor=FF6F00)
 ![Keras](https://img.shields.io/badge/Keras-1e1e2e?style=flat-square&logo=keras&logoColor=D00000)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-1e1e2e?style=flat-square&logo=yolo&logoColor=00FFFF)
 ![OpenCV](https://img.shields.io/badge/OpenCV-1e1e2e?style=flat-square&logo=opencv&logoColor=5C3EE8)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-1e1e2e?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![DeepFace](https://img.shields.io/badge/DeepFace-1e1e2e?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![OpenAI](https://img.shields.io/badge/OpenAI-1e1e2e?style=flat-square&logo=openai&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1e1e2e?style=flat-square&logo=scikitlearn&logoColor=F7931E)
 ![NumPy](https://img.shields.io/badge/NumPy-1e1e2e?style=flat-square&logo=numpy&logoColor=013243)
 ![Pandas](https://img.shields.io/badge/Pandas-1e1e2e?style=flat-square&logo=pandas&logoColor=150458)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-1e1e2e?style=flat-square&logo=huggingface&logoColor=FFD21E)
-![OpenAI](https://img.shields.io/badge/OpenAI-1e1e2e?style=flat-square&logo=openai&logoColor=white)
 
 ### Tooling
 ![Git](https://img.shields.io/badge/Git-1e1e2e?style=flat-square&logo=git&logoColor=F05032)
